@@ -1,303 +1,171 @@
-<div align="center">
+<h1 align="center">🚀 Hi, I'm Umesh Yadav 👨‍💻</h1>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Umesh Yadav
+<h3 align="center">
+💻 Software Engineer | Java Full Stack Developer | Spring Boot | React.js | MERN Stack | Problem Solver
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;MERN+Stack+Developer;Problem+Solver;Always+Learning+New+Things;Welcome+To+My+GitHub"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20To%20My%20GitHub&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn"/>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Ume-6666&style=for-the-badge&color=blue)
-
-![](https://img.shields.io/github/followers/Ume-6666?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/Ume-6666?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/Java-Full%20Stack-orange?style=for-the-badge)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+Real+World+Projects;Open+Source+Learner"/>
+</p>
 
 ---
 
-# 🚀 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 👨‍💻 Software Engineer
-
-- 🇮🇳 From India
-- 🎓 B.Tech Computer Science Engineer
-- 💻 Java Full Stack Developer
-- 🌐 MERN Stack Developer
-- 🚀 Spring Boot Enthusiast
-- ❤️ Love Building Real World Applications
-- 📚 Learning System Design
-- ☁️ Learning AWS
-- 🐳 Docker Beginner
-- 🧠 DSA Enthusiast
-
-### 🎯 Current Goal
-
-> Build scalable software and become a Software Engineer in a Product-Based Company.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 🌌 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 Passionate Software Engineer from India 🇮🇳
+
+🎓 Final Year B.Tech Computer Science Student
+
+💻 Java Full Stack Developer
+
+💡 Passionate about Backend Development & Problem Solving
+
+🌱 Currently Learning
+
+- Spring Boot
+- React.js
+- MERN Stack
+- Docker
+- AWS
+- System Design
+- Data Structures & Algorithms
+
+🎯 Career Goal
+
+> Become a Software Engineer in a Top Product Based Company.
+
+⚡ Fun Fact
 
 ```cpp
 while(alive)
 {
     Learn();
     Code();
-    Sleep();
+    Build();
     Repeat();
 }
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,javascript"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/><br><br>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,maven,npm"/><br><br>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,maven"/>
-
-</div>
+</p>
 
 ---
 
 # 💻 Core Computer Science
 
-| Subject | Status |
-|----------|--------|
-| Data Structures | ✅ |
-| Algorithms | ✅ |
-| OOP | ✅ |
+| 💡 Subjects | 🚀 Knowledge |
+|-------------|-------------|
+| Data Structures & Algorithms | ✅ |
+| Object Oriented Programming | ✅ |
 | DBMS | ✅ |
 | Operating System | ✅ |
 | Computer Networks | ✅ |
 | SDLC | ✅ |
-| REST API | ✅ |
-
----
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💻 Tech Stack | ⭐ Highlights |
-|------------|--------------|---------------|
-| 🤖 **AI Auto Reply Platform** | Spring Boot • React • MySQL | AI Email Reply, Authentication, REST APIs |
-| 🏦 **Enterprise Digital Banking System** | Spring Boot • React • MySQL | Secure Banking, Transactions, Dashboard |
-| 🛋️ **Furniture E-Commerce Website** | React • Node.js • MySQL | Shopping Cart, Checkout, Admin Panel |
-| 🎓 **Tech Grade Portal** | React • Express • MongoDB | Student Dashboard, Grades, Feedback |
-| 🩺 **Doctor Appointment System** | MERN Stack | Online Booking, Admin Panel |
-| 🎥 **Facial Recognition Attendance System** | Python • Django • MySQL | Face Detection, Automated Attendance |
-
-</div>
+| REST API Development | ✅ |
 
 ---
 
-# 🏆 Certifications
+# 🔥 Featured Projects
 
-<div align="center">
+## 🤖 AI Auto Reply Platform
 
-| 📜 Certification | Status |
-|------------------|--------|
-| ☕ Java Programming | ✅ |
-| 🗄 SQL | ✅ |
-| 💻 Full Stack Development | ✅ |
-| 🧠 Data Structures & Algorithms | ✅ |
-| ☁ AWS Learning | 🚀 In Progress |
+✨ Features
 
-</div>
+- AI Powered Auto Reply
+- Spring Boot REST APIs
+- React Frontend
+- MySQL Database
+- Secure Authentication
 
 ---
 
-# 💼 Experience
+## 🏦 Enterprise Digital Banking System
 
-```text
-2024
-│
-├── Started Java Development
-├── Built Multiple Academic Projects
-│
-2025
-│
-├── Full Stack Development
-├── Spring Boot Projects
-├── AI Auto Reply Platform
-│
-2026
-│
-├── Enterprise Banking System
-├── Placement Preparation
-└── Software Engineer 🚀
-```
+✨ Features
+
+- Spring Boot Backend
+- React Frontend
+- Banking Dashboard
+- Authentication
+- MySQL Database
 
 ---
 
-# 📚 Currently Learning
+## 🎓 Facial Recognition Attendance System
 
-<div align="center">
+✨ Features
 
-| Technology | Progress |
-|------------|----------|
-| ☕ Spring Boot | █████████░ 90% |
-| ⚛ React.js | ████████░░ 80% |
-| 🍃 MERN Stack | ███████░░░ 75% |
-| ☁ AWS | █████░░░░░ 50% |
-| 🐳 Docker | █████░░░░░ 50% |
-| 🧠 System Design | ████░░░░░░ 40% |
-
-</div>
+- Python + Django
+- Face Recognition
+- Attendance Automation
+- MySQL Database
 
 ---
 
-# 🎯 2026 Goals
+# 🧠 Learning Repositories
 
-- ✅ Crack Product-Based Company
-- ✅ Master Spring Boot
-- ✅ Learn Microservices
-- ✅ Learn AWS & Docker
-- ✅ 500+ LeetCode Problems
-- ✅ Open Source Contributions
-- ✅ Build Scalable Applications
+✔ Java DSA
 
----
+✔ SQL Practice
 
-# 📂 Learning Repositories
+✔ Spring Boot Practice
 
-```text
-📦 Java DSA
-📦 SQL Practice
-📦 Spring Boot Practice
-📦 MERN Stack Projects
-📦 Java Collections
-📦 Design Patterns
-📦 System Design Notes
-📦 LeetCode Solutions
-```
+✔ MERN Stack Projects
+
+✔ LeetCode Solutions
 
 ---
-
-# 💡 Developer Philosophy
-
-> **"Every expert was once a beginner. Every line of code makes me a better developer."**
-
----
-
-# ⚡ Daily Routine
-
-```java
-public class Developer {
-
-    public static void main(String[] args) {
-
-        while(true){
-
-            Learn();
-
-            Code();
-
-            BuildProjects();
-
-            SolveDSA();
-
-            Repeat();
-
-        }
-
-    }
-
-}
-```
-
----
-
-# 🌟 Interests
-
-- 💻 Software Development
-- 🤖 Artificial Intelligence
-- ☁ Cloud Computing
-- 📱 Web Development
-- 📚 Learning New Technologies
-- 🚀 Open Source
-- ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ume-6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ume-6666&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ume-6666&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ume-6666&theme=tokyo-night&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ume-6666&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Ume-6666&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ume-6666&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ume-6666&theme=react-dark"/>
 
 </p>
 
 ---
 
-# 📊 Profile Summary
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ume-6666&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ume-6666&theme=algolia&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -307,33 +175,65 @@ public class Developer {
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ume-6666&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📌 Current Focus
+
+```yaml
+Learning:
+  - Spring Boot
+  - React.js
+  - MERN Stack
+  - Docker
+  - AWS
+  - System Design
+
+Working On:
+  - AI Auto Reply Platform
+  - Enterprise Digital Banking System
+  - Open Source Projects
+
+Dream:
+  - Software Engineer at a Top Product Company
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Ume-6666">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/umesh-yadav-1b57b2290">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:uu820209@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote of the Day
+# 💡 Developer Quote
 
 <p align="center">
 
@@ -343,34 +243,14 @@ public class Developer {
 
 ---
 
-# 👀 Profile Visitors
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ume-6666&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </p>
 
----
+<h3 align="center">
 
-# ❤️ Support My Work
+⭐ "First, solve the problem. Then, write the code." ⭐
 
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-🚀 Always open to learning, collaboration, and exciting opportunities.
-
-</p>
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting My Profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:43e97b&height=160&section=footer"/>
-
-### ⭐ *"Code. Learn. Build. Repeat."*
-
-</div>
+</h3>
