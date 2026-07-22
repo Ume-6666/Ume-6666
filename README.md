@@ -22,7 +22,7 @@
 
 🚀 Passionate Software Engineer from India 🇮🇳
 
-🎓 Final Year B.Tech Computer Science Student
+🎓 B.Tech Computer Science Student
 
 💻 Java Full Stack Developer
 
